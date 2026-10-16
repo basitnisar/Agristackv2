@@ -1,0 +1,18 @@
+
+# Build output
+bin/
+obj/
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.cache
+
+# Generated project evaluation files
+ProjectEvaluation/
+
+# Logs
+*.log
